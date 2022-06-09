@@ -1,0 +1,4 @@
+message: teste
+
+server:
+  port: 9001
